@@ -1,0 +1,156 @@
+<mjml>
+  <mj-head>
+    <mj-title>This Week's Updates & Events!</mj-title>
+    <mj-preview>Weekly highlights from Velovita – trainings, promos & celebrations!</mj-preview>
+ <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" />
+   <mj-style inline="inline">
+  * {
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif !important;
+  }
+</mj-style>
+  </mj-head>
+<mj-body background-color="#ffffff">
+    <mj-section background-color="#DF703D" padding="40px 20px">
+      <mj-column>
+        <mj-image width="100px" align="center" src="https://www.dropbox.com/scl/fi/o5585tbm3w4xzkdnyhb2n/vv-white-RGB.svg?rlkey=7tnwhbjx53376auqpapnany1d&raw=1" alt="Velovita" />
+        <mj-text align="center" font-size="28px" font-weight="bold" color="#ffffff" padding-top="20px">This Week's</mj-text>
+        <mj-text align="center" font-size="32px" font-weight="900" color="#ffffff" padding-bottom="10px">Updates & Events!</mj-text>
+        <mj-text align="center" font-size="18px" color="#ffffff">April 22nd to the 28th</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="30px 20px">
+      <mj-column width="30%">
+        <mj-image src="https://www.dropbox.com/scl/fi/yhi780qjhvow2049kdpob/kostaborder.png?rlkey=eh8rb19thrn6r4wcquognz9fg&raw=1"
+ alt="Kosta Gara" border-radius="100px" width="100px"/>
+      </mj-column>
+      <mj-column width="70%">
+       <mj-text css-class="quote-style" font-style="italic" font-size="16px" color="#3F3F3F" line-height="1.5">
+  “The two most important ingredients necessary to become an elite relationship builder are communication and connection.”
+</mj-text>
+
+        <mj-text font-size="14px" color="#DF703D" padding-top="5px"><strong>– Kosta Gara, CEO</strong></mj-text>
+      </mj-column>
+    </mj-section>
+
+  
+  
+<mj-section background-color="#DF703D" padding="20px" border-radius="8px">
+  <mj-column width="30%" vertical-align="middle">
+    <mj-image src="https://www.dropbox.com/scl/fi/33mrgbkqem1jjsbzdv8x7/computer.png?rlkey=lio1hpd4qahl7p1a07aemey98&raw=1" 
+              alt="Reminder Computer" 
+              width="120px" 
+              padding="0px" />
+  </mj-column>
+  <mj-column width="70%" vertical-align="middle">
+    <mj-text font-size="24px" color="#ffffff" font-weight="bold" padding="0px">
+      📌 Reminders!
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+
+   <!-- Reminder 1 -->
+<mj-section background-color="#F8F8F8" padding="20px" border="1px solid #DF703D" border-radius="8px">
+  <mj-column width="100%">
+    <mj-text font-size="18px" color="#DF703D" font-weight="bold">🌸 Enjoy this Spring with our Sprays!</mj-text>
+    <mj-text color="#6C6C6C">
+      Last week of our Spring promo! Buy ANY box and get a Lite Version for FREE until <strong>April 14th</strong>!
+    </mj-text>
+    <mj-button background-color="#DF703D" color="#ffffff" font-weight="bold">👉 Learn More</mj-button>
+  </mj-column>
+</mj-section>
+
+<!-- Reminder 2 -->
+<mj-section background-color="#ffffff" padding="20px" border="1px solid #DF703D" border-radius="8px">
+  <mj-column width="100%">
+    <mj-text font-size="18px" color="#DF703D" font-weight="bold">🎉 Fiesta 4 All!</mj-text>
+    <mj-text color="#6C6C6C">
+      Get your crew ready for our 4th anniversary Fiesta on <strong>May 5th</strong>! Join our celebration at home with your watch party!
+    </mj-text>
+    <mj-button background-color="#DF703D" color="#ffffff" font-weight="bold">🎟️ See Flyer</mj-button>
+  </mj-column>
+</mj-section>
+
+<!-- Reminder 3 -->
+<mj-section background-color="#F8F8F8" padding="20px" border="1px solid #DF703D" border-radius="8px">
+  <mj-column width="100%">
+    <mj-text font-size="18px" color="#DF703D" font-weight="bold">🏖️ Congratulations!</mj-text>
+    <mj-text color="#6C6C6C">
+      Congratulations to all our Incentive Trip attendees! Wishing you fun, relaxation, beach time, and valuable insights from fellow Members and leaders. See you soon!
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+  
+  
+  
+<mj-section background-color="#DF703D" padding="20px" border-radius="8px">
+  <mj-column width="100%" vertical-align="middle">
+    <mj-text align="center" font-size="22px" color="#ffffff" font-weight="bold" padding-bottom="10px">
+      💡 Join us this week for motivation, trainings and inspiration!
+    </mj-text>
+  </mj-column>
+
+  <mj-column width="50%" vertical-align="middle">
+    <mj-image src="https://www.dropbox.com/scl/fi/3756rt2wojoomzlrqrpv8/roryicon.png?rlkey=5dfgypg4pwp8ho8nqwzuf445j&raw=1" 
+              alt="Rory Icon" 
+              width="100px" 
+              padding="0px" />
+  </mj-column>
+  
+  <mj-column width="50%" vertical-align="middle">
+    <mj-image src="https://www.dropbox.com/scl/fi/m2grz47xbaal5rbrbiwrr/valeriaicon.png?rlkey=ishbiclwri1k38aywq1wqz9t3&raw=1" 
+              alt="Valeria Icon" 
+              width="100px" 
+              padding="0px" />
+  </mj-column>
+</mj-section>
+
+
+
+
+<!-- Training 1 -->
+<mj-section background-color="#ffffff" padding="20px" border="1px solid #DF703D" border-radius="8px" >
+  <mj-column>
+    <mj-text font-size="18px" font-weight="bold" color="#3F3F3F">Monday Night Training</mj-text>
+    <mj-text color="#6C6C6C">
+      Tools from the Velovita pros! Grow your Business! <br />
+      <strong>Hosted by:</strong> Rory Ricord and Valeria Durán
+    </mj-text>
+    <mj-text font-size="14px" color="#98989A">
+      🕗 Monday at 8 PM ET / 6 PM CT / 5 PM PST
+    </mj-text>
+    <mj-button background-color="#DF703D" color="#ffffff" font-weight="bold" href="https://vvzoom.zoom.us/j/639089148#success">  <span style="font-size: 20px;">🎥</span> Velovita Live</mj-button>
+  </mj-column>
+</mj-section>
+
+<!-- Training 2 -->
+<mj-section background-color="#F8F8F8" padding="20px" border="1px solid #DF703D" border-radius="8px">
+  <mj-column>
+    <mj-text font-size="18px" font-weight="bold" color="#3F3F3F">Spread the word about Velovita!</mj-text>
+    <mj-text color="#6C6C6C">
+      Get informed! <br />
+      <strong>Hosted by:</strong> Rory Ricord and Valeria Durán
+    </mj-text>
+    <mj-text font-size="14px" color="#98989A">
+      🕗 Tuesday at 8 PM ET / 6 PM CT / 5 PM PST
+    </mj-text>
+    <mj-button background-color="#DF703D" color="#ffffff" font-weight="bold" href="https://vvzoom.zoom.us/j/639089148#success"> Join Now!</mj-button>
+  </mj-column>
+</mj-section>
+
+
+    <!-- Footer -->
+    <mj-section background-color="#3F3F3F" padding="20px">
+      <mj-column>
+        <mj-image width="100px" src="https://www.dropbox.com/scl/fi/uqc88ek9umr5y5bs5u1u2/vv-fullColor-RGB.svg?rlkey=typtw3loa1tbxvh5d2q3j3742&raw=1" alt="Velovita" />
+        <mj-text align="center" color="#ffffff" font-size="14px" padding="10px 0 0">
+          © Velovita 2025, All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
